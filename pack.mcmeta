@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Various animated texture overhauls and additions"
+  },
+  "meta": {
+    "game_version": "1.19"
+  }
+}
